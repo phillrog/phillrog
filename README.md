@@ -1,4 +1,4 @@
-# Hi I'm Phillipe
+# Hi I'm Phillipe!!! :construction_worker:🏡:moneybag::trophy:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillrog/)](https://www.linkedin.com/in/phillrog/)
 __________________________________________________________________________________________________________________________________________________________
