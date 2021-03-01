@@ -45,7 +45,11 @@
   <a href="https://www.linkedin.com/in/phillrog/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
   </a>
+  <a href="https://github.com/phillrog/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=whiteg" alt="ghaynesh"  />
+  </a>
  </p>
+ 
 __________________________________________________________________________________________________________________________________________________________
 
 [![phillrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillrog)](https://github.com/phillrog/github-readme-stats)
