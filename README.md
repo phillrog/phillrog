@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A fullstack developer from Ribeirão Preto, Brazil.
+  A developer from Ribeirão Preto, Brazil.
 </p>
 
 <p align='center'>   
