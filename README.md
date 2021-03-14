@@ -27,10 +27,10 @@
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=.Net Core&color=0081cb" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=C%23%0A&color=239120" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Asp%20.Net%20%20Core&color=blue" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Angular&color=dd0031" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Javascript&color=f7df1e" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Typescript&color=42b3ff" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Bootstrap&color=0081cb" />
+<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Angular&color=dd0031" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Angular%20%20Material&color=0081cb" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=CSS&color=f7df1e" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=HTML&color=cc6699" />
