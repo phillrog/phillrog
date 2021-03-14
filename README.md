@@ -23,24 +23,58 @@
 
 🚀 Skills
 
-[!dotNet](https://img.shields.io/static/v1?label=&nbsp;&message=.Net&color=blue)
-<p>
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=.Net Core&color=0081cb" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=C%23%0A&color=239120" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Asp%20.Net%20%20Core&color=blue" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Javascript&color=f7df1e" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Typescript&color=42b3ff" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Bootstrap&color=0081cb" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Angular&color=dd0031" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=Angular%20%20Material&color=0081cb" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=CSS&color=f7df1e" />
-<img src="https://img.shields.io/static/v1?label=&nbsp;&message=HTML&color=cc6699" />
-  <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Oracle&color=fa7343" />
-  <img src="https://img.shields.io/static/v1?label=&nbsp;&message=SQL%20%20SERVER&color=0081cb" />
-  <img src="https://img.shields.io/static/v1?label=&nbsp;&message=NODE&color=239120" />
-  <img src="https://img.shields.io/static/v1?label=&nbsp;&message=React%20%20JS&color=000000" />
-  <img src="https://img.shields.io/static/v1?label=&nbsp;&message=React%20%20Native&color=5c2d91" />
-</p>
+<table>
+  <tr>
+    <td>
+		<img src="https://img.shields.io/static/v1?label=%20&message=.Net&color=blue" />
+    </td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=.Net%20Core&color=0081cb" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=C%23%0A&color=239120" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Asp%20.Net%20%20Core&color=blue" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Javascript&color=f7df1e" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Typescript&color=42b3ff" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Bootstrap&color=0081cb" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Angular&color=dd0031" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=Angular%20%20Material&color=0081cb" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=CSS&color=f7df1e" />
+</td>
+    <td>
+<img src="https://img.shields.io/static/v1?label=%20&message=HTML&color=cc6699" />
+</td>
+    <td>
+  <img src="https://img.shields.io/static/v1?label=%20&message=Oracle&color=fa7343" />
+  </td>
+    <td>
+  <img src="https://img.shields.io/static/v1?label=%20&message=SQL%20%20SERVER&color=0081cb" />
+  </td>
+    <td>
+  <img src="https://img.shields.io/static/v1?label=%20&message=NODE&color=239120" />
+  </td>
+    <td>
+  <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20JS&color=000000" />
+  </td>
+    <td>
+  <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20Native&color=5c2d91" />
+  </td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillrog/" target="_blank">
