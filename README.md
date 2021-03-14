@@ -23,7 +23,8 @@
 
 🚀 Skills
 
-<p><img src="https://img.shields.io/static/v1?label=&nbsp;&message=.Net&color=blue" />
+[!dotNet](https://img.shields.io/static/v1?label=&nbsp;&message=.Net&color=blue)
+<p>
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=.Net Core&color=0081cb" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=C%23%0A&color=239120" />
 <img src="https://img.shields.io/static/v1?label=&nbsp;&message=Asp%20.Net%20%20Core&color=blue" />
