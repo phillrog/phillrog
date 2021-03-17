@@ -23,60 +23,24 @@
 
 🚀 Skills
 
-<table>
-  <tr>
-    <td>
+<p>
 		<img src="https://img.shields.io/static/v1?label=%20&message=.Net&color=blue" width="96px" height="40px" />
-    </td>
-    <td>
+   
 <img src="https://img.shields.io/static/v1?label=%20&message=.Net%20Core&color=0081cb" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=C%23%0A&color=239120" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Asp%20.Net%20%20Core&color=blue" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Javascript&color=f7df1e" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Typescript&color=42b3ff" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Bootstrap&color=0081cb" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Angular&color=dd0031" width="96px" height="40px" />
-</td>
-	</tr>
-	<tr>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=Angular%20%20Material&color=de2ed4" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=CSS&color=f7df1e" width="96px" height="40px" />
-</td>
-    <td>
 <img src="https://img.shields.io/static/v1?label=%20&message=HTML&color=cc6699" width="96px" height="40px" />
-</td>
-    <td>
   <img src="https://img.shields.io/static/v1?label=%20&message=Oracle&color=fa7343" width="96px" height="40px" />
-  </td>
-    <td>
   <img src="https://img.shields.io/static/v1?label=%20&message=SQL%20%20SERVER&color=f2f3f5" width="96px" height="40px" />
-  </td>
-    <td>
   <img src="https://img.shields.io/static/v1?label=%20&message=NODE&color=239120" width="96px" height="40px" />
-  </td>
-    <td>
   <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20JS&color=000000" width="96px" height="40px" />
-  </td>
-    <td>
   <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20Native&color=5c2d91" width="96px" height="40px" />
-  </td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillrog/" target="_blank">
