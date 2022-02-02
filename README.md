@@ -5,14 +5,13 @@
 </h1>
 
 <p align='center'>
-  A developer from Ribeirão Preto, Brazil.
+  A developer from Ribeirão Preto - SP, Brazil.
 </p>
 
-<p align='center'>   
-  <a href="https://www.linkedin.com/in/phillrog/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+<div align='center'>
+	
+[![Linkedin Badge](https://img.shields.io/badge/-Phillipe%20R%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillrog/)](https://www.linkedin.com/in/phillrog/) [![Hotmail Badge](https://img.shields.io/badge/-phillipersouza@hotmail.com-6633cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:phillipersouzaf@hotmail.com)](mailto:phillipersouzaf@hotmail.com)
+</div>
 
 - 💬 Ask me about: Development 
 
@@ -39,18 +38,18 @@
   <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20JS&color=000000" width="96px" height="40px" />
   <img src="https://img.shields.io/static/v1?label=%20&message=React%20%20Native&color=5c2d91" width="96px" height="40px" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/phillrog/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
-  </a>
-  <a href="https://github.com/phillrog/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=whiteg" alt="ghaynesh"  />
-  </a>
- </p>
- 
+
 __________________________________________________________________________________________________________________________________________________________
 
 ![phillrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillrog&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillrog&layout=compact)](https://github.com/phillrog/github-readme-stats)
+	
+	
+  <a href="https://www.linkedin.com/in/phillrog/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
+  </a>
+  <a href="https://github.com/phillrog/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=whiteg" alt="ghaynesh"  />
+  </a>	
 
