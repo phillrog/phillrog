@@ -15,7 +15,7 @@
 
 - 💬 Ask me about: Development 
 
-- 🌱 I’m currently studying Architecture, Asp .Net Core Mvc, Angular and learning Node, MongoDB, React JS, React Native, besides my beloved JavaScript and CSS, that I will always be learning 💚
+- 🌱 I’m currently studying Architecture and taking the Cloud Native course for .NET developers, besides my beloved JavaScript and CSS, that I will always be learning 💚
 
 🚀 Skills
 
