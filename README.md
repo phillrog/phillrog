@@ -10,7 +10,7 @@
 
 <div align='center'>
 	
-[![Linkedin Badge](https://img.shields.io/badge/-Phillipe%20R%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillrog/)](https://www.linkedin.com/in/phillrog/) [![Hotmail Badge](https://img.shields.io/badge/-phillipersouza@hotmail.com-6633cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:phillipersouzaf@hotmail.com)](mailto:phillipersouzaf@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Phillipe%20R%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillrog/)](https://www.linkedin.com/in/phillrog/) 
 </div>
 
 - 🌱 I’m currently studying and learning python
